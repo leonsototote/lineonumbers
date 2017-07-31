@@ -1,0 +1,7 @@
+lineoconfiguration:
+    configurations:
+        3: Lineo
+        5: IT
+    joinMessage: Lineanos
+    minLimit: 1
+    maxLimit: 100
